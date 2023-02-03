@@ -1,0 +1,13 @@
+require('settings')
+require('colors.nightfox')
+require('nvim-tree-config')
+require('plugins')
+require('mappings')
+require('lsp-config.lang-servers')
+require('lsp-config.nvim-cmp')
+require('lualine-config')
+require('barbar-config')
+require('treesitter-config')
+require('telescope-config')
+require('indent-config')
+
